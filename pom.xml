@@ -172,8 +172,8 @@
         </dependency>
         <dependency>
             <groupId>org.libdohj</groupId>
-            <artifactId>libdohj</artifactId>
-            <version>0.14.0</version>
+            <artifactId>libdohj-core</artifactId>
+            <version>0.14-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>net.java.dev.jna</groupId>
